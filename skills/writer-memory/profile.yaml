@@ -1,0 +1,8 @@
+id: writer-memory
+name: Writer Memory
+role: Writer
+description: >
+  A skill for maintaining character memory, plot continuity, 
+  and world-building consistency across novel chapters.
+skills:
+  - core
