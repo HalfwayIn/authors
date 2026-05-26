@@ -1,0 +1,6 @@
+id: skillify
+name: Skillify
+role: Assistant
+description: Skillify
+skills:
+- core

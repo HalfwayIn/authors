@@ -1,0 +1,6 @@
+id: team
+name: Team Skill
+role: Manager
+description: Team Skill
+skills:
+- core

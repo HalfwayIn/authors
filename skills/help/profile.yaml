@@ -1,0 +1,6 @@
+id: help
+name: Help
+role: Assistant
+description: Help
+skills:
+- core

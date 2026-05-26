@@ -1,0 +1,6 @@
+id: remember
+name: Remember
+role: Assistant
+description: Remember
+skills:
+- core

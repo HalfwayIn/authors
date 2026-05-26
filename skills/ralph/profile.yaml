@@ -1,0 +1,6 @@
+id: ralph
+name: Ralph
+role: Agent
+description: Ralph
+skills:
+- core

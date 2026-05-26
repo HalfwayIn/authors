@@ -1,0 +1,6 @@
+id: security-review
+name: Security Review
+role: Reviewer
+description: Security Review
+skills:
+- core

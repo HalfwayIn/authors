@@ -1,0 +1,6 @@
+id: skill
+name: Skill 管理 CLI
+role: Assistant
+description: Skill 管理 CLI
+skills:
+- core

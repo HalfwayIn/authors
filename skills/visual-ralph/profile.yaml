@@ -1,0 +1,6 @@
+id: visual-ralph
+name: Visual Ralph Skill
+role: Agent
+description: Visual Ralph Skill
+skills:
+- core

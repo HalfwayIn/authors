@@ -1,0 +1,6 @@
+id: doctor
+name: Doctor
+role: Engineer
+description: Doctor
+skills:
+- core

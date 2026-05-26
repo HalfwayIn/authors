@@ -1,0 +1,6 @@
+id: ask
+name: Ask（Local Advisor CLI）
+role: Assistant
+description: Ask（Local Advisor CLI）
+skills:
+- core

@@ -1,0 +1,6 @@
+id: trace
+name: Trace Skill
+role: Debugger
+description: Trace Skill
+skills:
+- core
