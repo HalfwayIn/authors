@@ -4,3 +4,5 @@ role: Engineer
 description: Debug
 skills:
 - core
+agent_family: omctalent
+hosting: company

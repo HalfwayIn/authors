@@ -4,3 +4,5 @@ role: Quality Assurance
 description: AI Slop Cleaner Skill
 skills:
 - core
+agent_family: omctalent
+hosting: company

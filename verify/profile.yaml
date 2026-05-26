@@ -4,3 +4,5 @@ role: QA Engineer
 description: Verify
 skills:
 - core
+agent_family: omctalent
+hosting: company

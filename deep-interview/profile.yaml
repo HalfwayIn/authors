@@ -4,3 +4,5 @@ role: Researcher
 description: Deep Interview 规格：{title}
 skills:
 - core
+agent_family: omctalent
+hosting: company

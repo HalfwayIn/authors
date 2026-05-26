@@ -4,3 +4,5 @@ role: Assistant
 description: Help
 skills:
 - core
+agent_family: omctalent
+hosting: company

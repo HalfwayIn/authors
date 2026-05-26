@@ -4,3 +4,5 @@ role: Reviewer
 description: Security Review
 skills:
 - core
+agent_family: omctalent
+hosting: company

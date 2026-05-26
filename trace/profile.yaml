@@ -4,3 +4,5 @@ role: Debugger
 description: Trace Skill
 skills:
 - core
+agent_family: omctalent
+hosting: company

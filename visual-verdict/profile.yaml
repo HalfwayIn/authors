@@ -4,3 +4,5 @@ role: Designer
 description: Visual Verdict
 skills:
 - core
+agent_family: omctalent
+hosting: company

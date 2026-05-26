@@ -4,3 +4,5 @@ role: Researcher
 description: Deep Dive Trace：{slug}
 skills:
 - core
+agent_family: omctalent
+hosting: company

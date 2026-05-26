@@ -4,3 +4,5 @@ role: Reviewer
 description: Code Review Skill
 skills:
 - core
+agent_family: omctalent
+hosting: company

@@ -4,3 +4,5 @@ role: Planner
 description: Ralplan（共识式规划别名）
 skills:
 - core
+agent_family: omctalent
+hosting: company

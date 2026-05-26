@@ -4,3 +4,5 @@ role: Assistant
 description: Skill 管理 CLI
 skills:
 - core
+agent_family: omctalent
+hosting: company

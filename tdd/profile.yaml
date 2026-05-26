@@ -4,3 +4,5 @@ role: Engineer
 description: TDD 已弃用
 skills:
 - core
+agent_family: omctalent
+hosting: company
